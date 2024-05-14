@@ -16,3 +16,9 @@ st.markdown('***') # linea separadora
 
 st.write('**API (Interfaz de Programación de Aplicaciones):** Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema.')
 st.markdown('***') # linea separadora
+
+st.write('**Aplicación:** Es un programa de software diseñado para realizar una tarea específica o brindar un servicio en un dispositivo electrónico, como un teléfono móvil, una computadora o una tableta.')
+st.markdown('***') # linea separadora
+
+st.write('**Autenticación:** Es el proceso de verificar y confirmar la identidad de un usuario o entidad para garantizar que es quien dice ser.')
+st.markdown('***') # linea separadora

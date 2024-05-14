@@ -15,3 +15,7 @@ st.write('El objetivo de este glosario de términos es explicar de forma clara y
 
 
 st.write("check out this [link](https://github.com/rafaopz/mcdonalds_project/blob/main/Modelo_ML/inicio.py)")
+
+
+st.write('**:** ')
+st.markdown('***') # linea separadora
