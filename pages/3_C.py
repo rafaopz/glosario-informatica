@@ -16,3 +16,6 @@ st.markdown('***') # linea separadora
 
 st.write('**Caché:** Es una memoria de alta velocidad que almacena temporalmente datos o instrucciones para acceder a ellos más rápidamente.')
 st.markdown('***') # linea separadora
+
+st.write('**CPU:** Es el componente principal que procesa las señales y hace posible la computación. Actúa como el cerebro de cualquier dispositivo de computación. Obtiene instrucciones de la memoria, realiza las tareas necesarias y envía la salida a la memoria')
+st.markdown('***') # linea separadora

@@ -14,7 +14,8 @@ st.markdown('***') # linea separadora
 st.write('**Firewall:** Barrera de seguridad que se utiliza para proteger una red informática al controlar y filtrar el tráfico de datos que entra y sale de ella.')
 st.markdown('***') # linea separadora
 
-
+st.write('**Fibra Óptica:** Es un Hilo muy delgado transparente empleado en redes de datos y telecomunicaciones como medio de transmisión. A través de él se envían pulsos de luz que representan los datos a transmitir. ')
+st.markdown('***') # linea separadora
 
 
 st.write('**:** ')

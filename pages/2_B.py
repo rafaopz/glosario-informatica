@@ -25,7 +25,11 @@ st.markdown('***') # linea separadora
 st.write('**Búfer:** Área de memoria temporal utilizada para almacenar datos mientras se transfieren de un lugar a otro.')
 st.markdown('***') # linea separadora
 
+st.write('**Blockchain:** Se puede definir como una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar. Es un libro electrónico público que se puede compartir abiertamente entre usuarios dispares y que crea un registro inmutable de sus transacciones.')
+st.markdown('***') # linea separadora
 
+st.write('**Banda Ancha:** Es una Red diseñada para trasportar información, de manera rápida , con excelente calidad y de manera óptima. Ejemplo de ello: Las telefonías, el internet. ')
+st.markdown('***') # linea separadora
 
 st.write('**:** ')
 st.markdown('***') # linea separadora

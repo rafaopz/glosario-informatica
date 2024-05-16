@@ -12,5 +12,7 @@ st.write('**Inteligencia artificial:** Se refiere a la capacidad de las máquina
 st.markdown('***') # linea separadora
 
 
+
+
 st.write('**:** ')
 st.markdown('***') # linea separadora

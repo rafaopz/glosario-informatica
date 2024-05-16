@@ -11,6 +11,9 @@ st.markdown('***') # linea separadora
 st.write('**Gigabyte:** Unidad de medida de almacenamiento de información. Representa aproximadamente mil millones de bytes.')
 st.markdown('***') # linea separadora
 
+st.write('**Google Sites:** Esta aplicación permite a los usuarios crear y gestionar sitios web de manera fácil y sin necesidad de tener conocimientos avanzados de programación o diseño web. ')
+st.markdown('***') # linea separadora
+
 
 
 st.write('**:** ')
