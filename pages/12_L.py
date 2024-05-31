@@ -14,3 +14,6 @@ st.markdown('***') # linea separadora
 st.write('**Lenguaje de bajo nivel:** Un lenguaje de programación de bajo nivel proporciona poca o ninguna abstracción de la arquitectura del sistema del ordenador, es decir, se escribe código que es estructuralmente parecido a las instrucciones del procesador. Mayormente, con este término se refiere al código máquina y/o al lenguaje ensamblador.')
 st.markdown('***') # linea separadora   
 
+
+st.write('**:** ')
+st.markdown('***') # linea separadora
