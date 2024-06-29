@@ -13,5 +13,5 @@ st.write('Un glosario es una lista de palabras o frases de una misma disciplina,
 
 st.write('El objetivo de este glosario de términos es explicar de forma clara y breve las palabras técnicas utilizadas en el campo de la informática. Este glosario ayudará a los lectores a comprender el significado preciso de los términos técnicos o especializados que pueden ser desconocidos para ellos.')
 
-st.write('**:** ')
-st.markdown('***') # linea separadora
+#st.write('**:** ')
+#st.markdown('***') # linea separadora
