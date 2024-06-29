@@ -14,8 +14,6 @@ st.markdown('***') # linea separadora
 st.write('**Kilobit (Kb):** Unidad de medida de velocidad o capacidad de transmisión de datos. Equivale a mil bits.')
 st.markdown('***') # linea separadora
 
-st.write('**:** ')
-st.markdown('***') # linea separadora
 
 st.write('**:** ')
 st.markdown('***') # linea separadora
